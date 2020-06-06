@@ -1,0 +1,18 @@
+URL                http://primusbank.qedgetech.com/
+
+Username        //*[@id='txtuId']                 Admin  
+   
+password        //*[@id='txtPword']              Admin
+
+login button     //*[@id='login']              click
+
+Click on Branches        //*[@src='images/Branches_but.jpg']       click
+
+Country             //*[@name='lst_countryS']             INDIA
+
+State               //*[@id='lst_stateS']               MAHARASTRA
+
+City                //*[@id='lst_cityS']                 MUMBAI
+
+Click on Search            //*[@type='image' and @id='btn_search']            click 
+
